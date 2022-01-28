@@ -2,6 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+
+<img align="right" alt="GIF" src="https://github.com/ryan-sanders/ryan-sanders/blob/main/00913289123.jpg?raw=true" width="408" height="318" />
+
 <!--
 **ryan-sanders/ryan-sanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
