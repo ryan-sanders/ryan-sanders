@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+I am a Cybersecurity Architect focusing on cloud and communicaitons.
 
 <img align="right" alt="GIF" src="https://github.com/ryan-sanders/ryan-sanders/blob/main/00913289123.jpg?raw=true" width="408" height="318" />
 
