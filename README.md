@@ -1,4 +1,4 @@
-### 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&lines=Welcome!+I'm+Ryan+-+aka+CyberNemesis)](https://git.io/typing-svg) 👋
 
 Thanks for stopping by. ![visitors](https://visitor-badge.glitch.me/badge?page_id=ryan-sanders)
 
