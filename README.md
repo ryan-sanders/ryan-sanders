@@ -3,7 +3,7 @@
 ### :name_badge: I am a Cybersecurity Architect, Privacy Advocate, and cryptocurrency enthusiast.
 ---
 - In my day to day job I focus on cloud & network security and compliance. I am also pursuing my Masters in Cybersecurity.
-* My current private stack:
+* My current privacy stack:
   * Firefox
     * Startpage / DuckDuckGo
     * uBlock Origin
