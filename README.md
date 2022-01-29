@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/ryan-sanders/ryan-sanders/blob/main/00913289123.jpg?raw=true" width="408" height="318" />
 ### :name_badge: I am a Cybersecurity Architect, Privacy Advocate, and cryptocurrency enthusiast.
 ---
-- I’m currently working on my Masters in Cybersecurity.
+- I’m currently working on my Masters in Cybersecurity. In my day to day work I focus on cloud security, network security, and compliance.
   * Firefox
     * Startpage / DuckDuckGo
     * uBlock Origin
