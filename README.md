@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/ryan-sanders/ryan-sanders/blob/main/00913289123.jpg?raw=true" width="408" height="318" />
 ### :name_badge: I am a Cybersecurity Architect and Privacy Advocate with over 25 years experience
 ---
-- I’m currently working on my Masters in Cybersecurity and focusing on Confidential Computing, Azure Arc, 5G, and PMEC
+- I’m currently working on my Masters in Cybersecurity and enjoy CTF events and gamification. 
 * Current Privacy Stack
   * Firefox
     * Startpage / DuckDuckGo
@@ -15,4 +15,6 @@
   
 - 📫 How to reach me: CyberNemesis@protonmail.com
 ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/Cyber.Nemesis.png" alt="TryHackMe">
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ryan-sanders)
