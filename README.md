@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&multiline=true&height=55&lines=Welcome!+I'm+Ryan+-+aka+CyberNemesis;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 <img align="right" alt="GIF" src="https://github.com/ryan-sanders/ryan-sanders/blob/main/00913289123.jpg?raw=true" width="408" height="318" />
-### :name_badge: I am a Cybersecurity Architect and Privacy Advocate with over 25 years experience
+### :name_badge: I am a Cybersecurity Architect, Privacy Advocate, and cryptocurrency enthusiast.
 ---
-- I’m currently working on my Masters in Cybersecurity and enjoy CTF events and cybersecurity gamification. 
-* Current Privacy Stack
+- I’m currently working on my Masters in Cybersecurity.
   * Firefox
     * Startpage / DuckDuckGo
     * uBlock Origin
