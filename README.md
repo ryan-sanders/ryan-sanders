@@ -3,12 +3,12 @@
 ### :name_badge: I am a Cybersecurity Architect, Privacy Advocate, and cryptocurrency enthusiast.
 ---
 - In my day to day job I focus on cloud & network security and compliance. I am also pursuing my Masters in Cybersecurity.
-* My current privacy stack:
+* My current privacy tools:
   * Firefox
     * Startpage / DuckDuckGo
     * uBlock Origin
   * Bitwarden
-  * Signal / 
+  * Signal
   * 1.1.1.1 / NextDNS
   * Protonmail / Tutanota
   * Wormhole
