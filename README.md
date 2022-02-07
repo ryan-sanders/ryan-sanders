@@ -15,6 +15,6 @@
   
 - 📫 How to reach me: CyberNemesis@protonmail.com
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/Cyber.Nemesis.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Cyber.Nemesis.png" alt="TryHackMe1">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ryan-sanders)
