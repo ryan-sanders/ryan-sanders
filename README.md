@@ -13,7 +13,7 @@
   * Protonmail / Tutanota
   * Wormhole
   
-- 📫 How to reach me: CyberNemesis@protonmail.com
+- 📫 How to reach me: CyberNemesis@proton.me
 ---
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Cyber.Nemesis.png" alt="TryHackMe1">](https://tryhackme.com/p/Cyber.Nemesis)
