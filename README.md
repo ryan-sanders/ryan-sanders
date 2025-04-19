@@ -3,3 +3,11 @@
 <h1>The Rehabilitated War Dialer ☎️</h1>
 <i>Dialing into the future of the cloud and cybersecurity.</i>
 </div>
+
+## About Me
+- Python 🐍
+- Terraform ☁️
+- Cybersecurity 🔒
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-sanders)](https://github.com/ryan-sanders)
+
