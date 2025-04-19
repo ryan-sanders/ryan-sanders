@@ -4,13 +4,13 @@
 <i>Dialing into the future of the cloud and cybersecurity.</i>
 </div>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🔒 Cybersecurity Engineer at **Microsoft**, securing **Azure**’s cloud infrastructure
 - 📡 Inventor with a **patent in 5G technology**, advancing global connectivity
 - 🕸️ Hacking veteran since the **war dialing** days, now protecting the digital frontier
 - 🐍 Skilled in **Python**, **Terraform**, and cloud-native security
 
-### 🚀 Projects
+## 🚀 Projects
 - **[Azure Security Scripts](https://github.com/ryan-sanders/azure-security)**: Python tools for Azure threat detection (WIP)
 - **[Terraform Infra](https://github.com/ryan-sanders/terraform-infra)**: Secure Azure deployments with Terraform (WIP)
 - **[CTF Writeups](https://github.com/ryan-sanders/ctf-writeups)**: Cybersecurity challenges and solutions
@@ -22,7 +22,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan-sanders&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-sanders&theme=dark" alt="GitHub Streak"/>
 </div>
 
